@@ -6,7 +6,7 @@ Más de 7 años de experiencia combinando desarrollo web e infraestructura TIC. 
 
 ## 🏢 SAOProjects Studio
 
-Mi estudio de desarrollo desde 2023: más de 20 proyectos entregados con el ciclo completo (análisis, desarrollo, despliegue, formación y soporte).
+Mi estudio de desarrollo desde 2023. Cada proyecto se entrega con el ciclo completo: análisis, desarrollo, despliegue, formación y soporte.
 
 - **Aplicaciones a medida:** paneles de gestión con roles y permisos, en PHP con MVC propio.
 - **Sistemas de reservas** y **e-commerce** con pagos por Stripe.
@@ -22,20 +22,10 @@ Mi estudio de desarrollo desde 2023: más de 20 proyectos entregados con el cicl
 | Proyecto | Demo | Descripción |
 |---|---|---|
 | [**Inmogestion**](https://github.com/ricardo-mendez-saoprojects/inmogestion-case-study) | [inmogestion.saoprojects.es](https://inmogestion.saoprojects.es) | Aplicación a medida **en producción** para una inmobiliaria: web pública con buscador y captación, y panel para el equipo con cartera, contactos, cruce automático, agenda, embudo y tareas. PHP 8.5, MVC propio y sistema de roles. *Caso de estudio; código privado.* |
-| [**UpTask rediseñado**](https://github.com/ricardo-mendez-saoprojects/uptask-roles-case-study) | — | Rediseño en curso de un gestor de proyectos y tareas: migración a PHP 8.5, endurecimiento de seguridad y diseño de organizaciones y roles. De él hereda Inmogestion el método y la arquitectura. *Caso de estudio; código privado.* |
+| [**UpTask rediseñado**](https://github.com/ricardo-mendez-saoprojects/uptask-roles-case-study) | — | Rediseño en curso de un gestor de proyectos y tareas: migración a PHP 8.5, endurecimiento de seguridad y diseño de organizaciones y roles (diseñado, aún sin implementar). De él hereda Inmogestion el método de trabajo y las decisiones de arquitectura, no el código. *Caso de estudio; código privado.* |
 | [**DevClubDeportivo**](https://github.com/ricardo-mendez-saoprojects/DevClubDeportivo) | — | Gestión de un club deportivo en PHP MVC y MySQL: altas con aprobación, renovaciones, autorizaciones firmadas por los tutores, pagos con PayPal y panel de administración. |
 | [**saoprojects.es**](https://github.com/ricardo-mendez-saoprojects/saoprojects-web-case-study) | [saoprojects.es](https://saoprojects.es) | La web de mi estudio, con embudo de captación: contactos guardados en servidor, consentimiento RGPD verificable y despliegue continuo. Su backend/CRM está en camino sobre el núcleo de Inmogestion. *Caso de estudio; código privado.* |
 | [**AJI-PANCO**](https://github.com/ricardo-mendez-saoprojects/AJI-PANCO) | [andrefernandez.es](https://andrefernandez.es) | Web oficial de un peleador profesional, **proyecto de cliente en producción**, con SCSS, Gulp y JavaScript vanilla. |
-
-### Formación (curso)
-
-Proyectos del curso *Desarrollo Web Completo* de Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)), que hice como formación profesional para mi trabajo:
-
-- [DevWebCamp](https://github.com/ricardo-mendez-saoprojects/DevWebCamp): plataforma de eventos en PHP MVC con panel, APIs JSON y pagos.
-- [uptask-mvc-php](https://github.com/ricardo-mendez-saoprojects/uptask-mvc-php): gestor de proyectos y tareas en PHP MVC con API JSON.
-- [BienesRaicesMVC](https://github.com/ricardo-mendez-saoprojects/BienesRaicesMVC): portal inmobiliario en PHP MVC con ActiveRecord.
-- [FestivalMusica](https://github.com/ricardo-mendez-saoprojects/FestivalMusica): landing responsive con Sass e imágenes AVIF/WebP · [demo](https://ricardo-mendez-saoprojects.github.io/FestivalMusica/).
-- [Patrones-Web-Design](https://github.com/ricardo-mendez-saoprojects/Patrones-Web-Design): 14 patrones de maquetación con CSS Grid y Flexbox.
 
 ## 🛠️ Stack
 
@@ -79,7 +69,7 @@ Proyectos del curso *Desarrollo Web Completo* de Juan Pablo De la Torre Valdez (
 - **Administrador de Sistemas TIC · Consultor IT** — Centro de Investigaciones Biológicas Margarita Salas (CIB-CSIC) · *nov. 2024 – actualidad*<br>
   Soporte N1/N2 y consultoría IT a más de 600 investigadores; sistemas Windows, Ubuntu Linux y macOS; plataformas web corporativas (WordPress, Moodle) y bases de datos PostgreSQL, MySQL y MariaDB.
 - **Fundador y Desarrollador Full Stack** — SAOProjects Studio · *ene. 2023 – actualidad*<br>
-  Más de 20 proyectos entregados (sistemas de reservas, e-commerce con Stripe, plataformas Moodle y aplicaciones a medida) con el ciclo completo: análisis, desarrollo, despliegue, formación y soporte. Automatización con APIs de pagos y WhatsApp Business.
+  Sistemas de reservas, e-commerce con Stripe, plataformas Moodle y aplicaciones a medida, entregados con el ciclo completo: análisis, desarrollo, despliegue, formación y soporte. Automatización con APIs de pagos y WhatsApp Business.
 - **Desarrollador Web · Plataformas Moodle** — NOUS S.L. (proyecto de la Junta de Castilla y León) · *mar. 2024 – nov. 2024*<br>
   Aulas virtuales de todos los centros educativos de la Junta de Castilla y León, con PHP, CentOS y PostgreSQL.
 - **Desarrollador Full Stack PHP** — Denemax Consulting S.L. · *ago. 2023 – may. 2024*<br>
@@ -87,7 +77,7 @@ Proyectos del curso *Desarrollo Web Completo* de Juan Pablo De la Torre Valdez (
 - **Desarrollador Web WordPress** — MR Informática / MDELMIMPSIA (proyecto IMSERSO) · *jun. 2018 – jun. 2020*<br>
   Espacios Colaborativos del IMSERSO, migraciones y SEO on-page.
 
-## 🎓 Formación
+## 🎓 Formación (reglada)
 
 - CFGS Desarrollo de Aplicaciones Web — *finalizando*
 - CFGM Sistemas Microinformáticos y Redes
@@ -98,7 +88,16 @@ Proyectos del curso *Desarrollo Web Completo* de Juan Pablo De la Torre Valdez (
 ## 📜 Certificaciones
 
 - Microsoft Azure AI Fundamentals
-- ISC2 Certified in Cybersecurity (CC) — *en preparación*
+
+## 📚 Formación complementaria
+
+Proyectos del curso *Desarrollo Web Completo* de Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)), que hice como formación profesional para mi trabajo:
+
+- [DevWebCamp](https://github.com/ricardo-mendez-saoprojects/DevWebCamp): plataforma de eventos en PHP MVC con panel, APIs JSON y pagos.
+- [uptask-mvc-php](https://github.com/ricardo-mendez-saoprojects/uptask-mvc-php): gestor de proyectos y tareas en PHP MVC con API JSON.
+- [BienesRaicesMVC](https://github.com/ricardo-mendez-saoprojects/BienesRaicesMVC): portal inmobiliario en PHP MVC con ActiveRecord.
+- [FestivalMusica](https://github.com/ricardo-mendez-saoprojects/FestivalMusica): landing responsive con Sass e imágenes AVIF/WebP · [demo](https://ricardo-mendez-saoprojects.github.io/FestivalMusica/).
+- [Patrones-Web-Design](https://github.com/ricardo-mendez-saoprojects/Patrones-Web-Design): 14 patrones de maquetación con CSS Grid y Flexbox.
 
 ## 📫 Contacto
 
@@ -116,7 +115,7 @@ Proyectos del curso *Desarrollo Web Completo* de Juan Pablo De la Torre Valdez (
 
 ### 🏢 SAOProjects Studio
 
-My development studio since 2023: 20+ projects delivered end to end (analysis, development, deployment, training and support).
+My development studio since 2023. Every project is delivered end to end: analysis, development, deployment, training and support.
 
 - **Custom applications:** back offices with roles and permissions, in PHP with a custom MVC.
 - **Booking systems** and **e-commerce** with Stripe payments.
@@ -132,14 +131,10 @@ My development studio since 2023: 20+ projects delivered end to end (analysis, d
 | Project | Demo | Description |
 |---|---|---|
 | [**Inmogestion**](https://github.com/ricardo-mendez-saoprojects/inmogestion-case-study) | [inmogestion.saoprojects.es](https://inmogestion.saoprojects.es) | Custom application **in production** for a real estate agency: a public site with search and lead capture, and a back office for the team with portfolio, contacts, automatic matching, calendar, sales funnel and tasks. PHP 8.5, custom MVC and a roles system. *Case study; private code.* |
-| [**UpTask redesign**](https://github.com/ricardo-mendez-saoprojects/uptask-roles-case-study) | — | Ongoing redesign of a project and task manager: migration to PHP 8.5, security hardening and an organizations-and-roles design. Inmogestion inherits its method and architecture. *Case study; private code.* |
+| [**UpTask redesign**](https://github.com/ricardo-mendez-saoprojects/uptask-roles-case-study) | — | Ongoing redesign of a project and task manager: migration to PHP 8.5, security hardening and an organizations-and-roles design (designed, not yet implemented). Inmogestion inherits its working method and architecture decisions, not its code. *Case study; private code.* |
 | [**DevClubDeportivo**](https://github.com/ricardo-mendez-saoprojects/DevClubDeportivo) | — | Sports club management in PHP MVC and MySQL: sign-ups with approval, renewals, guardian-signed consents, PayPal payments and an admin panel. |
 | [**saoprojects.es**](https://github.com/ricardo-mendez-saoprojects/saoprojects-web-case-study) | [saoprojects.es](https://saoprojects.es) | My studio's website with a lead capture funnel: leads stored on the server, verifiable GDPR consent and continuous deployment. Its backend/CRM is on the way, built on the Inmogestion core. *Case study; private code.* |
 | [**AJI-PANCO**](https://github.com/ricardo-mendez-saoprojects/AJI-PANCO) | [andrefernandez.es](https://andrefernandez.es) | Official website of a professional fighter, a **client project in production**, built with SCSS, Gulp and vanilla JavaScript. |
-
-#### Training (course)
-
-Projects from the *Desarrollo Web Completo* course by Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)), taken as professional training for my job: [DevWebCamp](https://github.com/ricardo-mendez-saoprojects/DevWebCamp), [uptask-mvc-php](https://github.com/ricardo-mendez-saoprojects/uptask-mvc-php), [BienesRaicesMVC](https://github.com/ricardo-mendez-saoprojects/BienesRaicesMVC), [FestivalMusica](https://github.com/ricardo-mendez-saoprojects/FestivalMusica) ([demo](https://ricardo-mendez-saoprojects.github.io/FestivalMusica/)) and [Patrones-Web-Design](https://github.com/ricardo-mendez-saoprojects/Patrones-Web-Design).
 
 ### 🛠️ Stack
 
@@ -150,7 +145,7 @@ Same badges as above: PHP 8.5, Composer, custom MVC, REST APIs, Stripe and Whats
 - **IT Systems Administrator · IT Consultant** — Margarita Salas Biological Research Centre (CIB-CSIC) · *Nov 2024 – present*<br>
   Tier 1/2 support and IT consulting for 600+ researchers; Windows, Ubuntu Linux and macOS systems; corporate web platforms (WordPress, Moodle) and PostgreSQL, MySQL and MariaDB databases.
 - **Founder and Full Stack Developer** — SAOProjects Studio · *Jan 2023 – present*<br>
-  20+ projects delivered (booking systems, Stripe e-commerce, Moodle platforms and custom applications) end to end: analysis, development, deployment, training and support. API automation with payments and WhatsApp Business.
+  Booking systems, Stripe e-commerce, Moodle platforms and custom applications, delivered end to end: analysis, development, deployment, training and support. API automation with payments and WhatsApp Business.
 - **Web Developer · Moodle Platforms** — NOUS S.L. (Regional Government of Castilla y León project) · *Mar 2024 – Nov 2024*<br>
   Virtual classrooms for every school in Castilla y León, with PHP, CentOS and PostgreSQL.
 - **Full Stack PHP Developer** — Denemax Consulting S.L. · *Aug 2023 – May 2024*<br>
@@ -158,7 +153,7 @@ Same badges as above: PHP 8.5, Composer, custom MVC, REST APIs, Stripe and Whats
 - **WordPress Web Developer** — MR Informática / MDELMIMPSIA (IMSERSO project) · *Jun 2018 – Jun 2020*<br>
   IMSERSO Collaborative Spaces, migrations and on-page SEO.
 
-### 🎓 Education
+### 🎓 Education (formal)
 
 - Higher Technician in Web Application Development (CFGS DAW) — *finishing*
 - Technician in Microcomputer Systems and Networks (CFGM SMR)
@@ -169,7 +164,10 @@ Same badges as above: PHP 8.5, Composer, custom MVC, REST APIs, Stripe and Whats
 ### 📜 Certifications
 
 - Microsoft Azure AI Fundamentals
-- ISC2 Certified in Cybersecurity (CC) — *in preparation*
+
+### 📚 Complementary training
+
+Projects from the *Desarrollo Web Completo* course by Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)), taken as professional training for my job: [DevWebCamp](https://github.com/ricardo-mendez-saoprojects/DevWebCamp), [uptask-mvc-php](https://github.com/ricardo-mendez-saoprojects/uptask-mvc-php), [BienesRaicesMVC](https://github.com/ricardo-mendez-saoprojects/BienesRaicesMVC), [FestivalMusica](https://github.com/ricardo-mendez-saoprojects/FestivalMusica) ([demo](https://ricardo-mendez-saoprojects.github.io/FestivalMusica/)) and [Patrones-Web-Design](https://github.com/ricardo-mendez-saoprojects/Patrones-Web-Design).
 
 ### 📫 Contact
 
